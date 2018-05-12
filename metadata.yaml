@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '6731'
     url: http://www.gutenberg.org/2009/agents/6731
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16461#A-Bird-s-Eye-View-of-the-BibleSecond-Edition
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-08-07'
 gutenberg_type: Text

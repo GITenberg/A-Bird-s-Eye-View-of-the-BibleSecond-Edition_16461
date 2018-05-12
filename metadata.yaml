@@ -1,0 +1,37 @@
+_repo: A-Bird-s-Eye-View-of-the-BibleSecond-Edition_16461
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Chapman, J. Wilbur (John Wilbur)
+    aliases:
+    - Chapman, Wilbur
+    - Chapman, John Wilbur
+    birthdate: 1859
+    deathdate: 1918
+    gutenberg_agent_id: '3220'
+    url: http://www.gutenberg.org/2009/agents/3220
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmer, Frank Nelson
+    gutenberg_agent_id: '6731'
+    url: http://www.gutenberg.org/2009/agents/6731
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Study and teaching'
+- !lcc 'BS'
+title: 'A Bird''s-Eye View of the Bible
+
+  Second Edition'
+url: http://www.gutenberg.org/ebooks/16461
